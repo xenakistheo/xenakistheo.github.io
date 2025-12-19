@@ -1,0 +1,25 @@
+title: Theodoros Xenakis
+description: Currently under construction
+
+remote_theme: mmistakes/minimal-mistakes@4.27.3
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+markdown: kramdown
+mathjax: true
+
+author:
+  name   : "Theodoros Xenakis"
+  avatar : /assets/img/photoCV.jpg
+  bio    : "Applied math, ML, and physics."
+
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/xenakistheo"
+
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/theodoros-xenakis-890268368"
