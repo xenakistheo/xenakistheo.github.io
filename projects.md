@@ -68,15 +68,40 @@ permalink: /projects/
   Both notebooks independently handle preprocessing, feature engineering, model training, postprocessing, and prediction generation.
 </p>
 
-<p>
-  Supporting work includes exploratory data analysis, time-series feature construction via shifted datasets, model comparison, and postprocessing to enforce physically plausible predictions.
-</p>
 
   <p class="project-buttons">
     <a class="btn btn--primary" href="/assets/pdfs/TDT4173_project_report.pdf" target="_blank" rel="noopener">Report (PDF)</a>
     <a class="btn btn--info" href="https://github.com/xenakistheo/TDT4173" target="_blank" rel="noopener">GitHub</a>
   </p>
 </div>
+
+
+<div class="project-card">
+  <h2>Scientific Computing Projects</h2>
+  <p>
+  <strong>Authors:</strong> Henrik S. Grønlund, Magnus U. Rønneseth, Theodoros Xenakis<br>
+</p>
+
+<p>
+  This project collection was developed as part of <em>TMA4320 – Introduction to Scientific Computing</em> at NTNU and received a final grade of A. It consists of three independent computational projects implemented in Python.
+</p>
+
+<p>
+  <strong>Project&nbsp;1</strong> explores Monte Carlo simulation of polymer folding on a 2D lattice.  
+  <strong>Project&nbsp;2</strong> applies transformer-based neural networks to sequence prediction on synthetic data.
+  <strong>Project&nbsp;3</strong> studies particle transport driven by ocean currents using numerical time integration.  
+  
+</p>
+
+<p>
+  Together, the projects cover stochastic simulation, numerical modeling, and modern machine learning, with emphasis on implementing algorithms from first principles and analyzing their behavior through visualization and experiments.
+</p>
+
+  <p class="project-buttons">
+    <a class="btn btn--info" href="https://github.com/xenakistheo/TMA4320" target="_blank" rel="noopener">GitHub</a>
+  </p>
+</div>
+
 
 
 <hr>
