@@ -51,17 +51,33 @@ permalink: /projects/
 </div>
 
 
-<!-- <div class="project-card">
-  <h2>AIS Trajectory Forecasting</h2>
+<div class="project-card">
+  <h2>AIS Vessel Position Prediction</h2>
   <p>
-    Predicting vessel positions from AIS data using feature engineering and ensemble models.
-  </p>
+  <strong>Authors:</strong> Einar J. Rye, Henrik S. Grønlund, Theodoros Xenakis<br>
+</p>
+
+<p>
+  This project was developed as part of <em>TDT4173 – Modern Machine Learning in Practice</em> at NTNU and received a final grade of A. The goal was to predict future vessel positions using large-scale AIS time-series data.
+</p>
+
+<p>
+  The project centers around two standalone machine learning pipelines implemented in Python.  
+  <strong>Pipeline&nbsp;1</strong> uses a Random Forest model, while  
+  <strong>Pipeline&nbsp;2</strong> applies XGBoost.  
+  Both notebooks independently handle preprocessing, feature engineering, model training, postprocessing, and prediction generation.
+</p>
+
+<p>
+  Supporting work includes exploratory data analysis, time-series feature construction via shifted datasets, model comparison, and postprocessing to enforce physically plausible predictions.
+</p>
+
   <p class="project-buttons">
-    <a class="btn btn--primary" href="/assets/pdfs/ais-report.pdf" target="_blank" rel="noopener">Report (PDF)</a>
-    <a class="btn btn--info" href="/assets/pdfs/ais-slides.pdf" target="_blank" rel="noopener">Slides (PDF)</a>
-    <a class="btn btn--inverse" href="https://github.com/youruser/yourrepo" target="_blank" rel="noopener">GitHub</a>
+    <a class="btn btn--primary" href="/assets/pdfs/TDT4173_project_report.pdf" target="_blank" rel="noopener">Report (PDF)</a>
+    <a class="btn btn--info" href="https://github.com/xenakistheo/TDT4173" target="_blank" rel="noopener">GitHub</a>
   </p>
-</div> -->
+</div>
+
 
 <hr>
 
