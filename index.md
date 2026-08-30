@@ -12,9 +12,9 @@ sidebar:
       - Physics-Constrained & Reliable ML
 ---
 
-I am a final-year MSc student in Industrial Mathematics at NTNU. My master's thesis lies at the intersection of stochastic modeling, finite element methods, and high-performance computing, under the supervision of [Prof. Geir-Arne Fuglstad](https://www.ntnu.edu/employees/geir-arne.fuglstad) at NTNU and [Prof. Alan Edelman](https://math.mit.edu/~edelman/) at MIT.
+I am a final-year MSc student in Industrial Mathematics at the Norwegian University of Science and Technology (NTNU). My master's thesis lies at the intersection of stochastic modeling, finite element methods, and high-performance computing, under the supervision of [Prof. Geir-Arne Fuglstad](https://www.ntnu.edu/employees/geir-arne.fuglstad) at NTNU and [Prof. Alan Edelman](https://math.mit.edu/~edelman/) at MIT.
 
-During the 2025–2026 academic year, I studied at MIT as a Fulbright Scholar, taking courses in applied mathematics and machine learning while conducting research at the Julia Lab. This year, I am spending much of my time in Boston continuing my research at the Julia Lab under the supervision of Prof. Alan Edelman and [Dr. Chris Rackauckas](https://www.chrisrackauckas.com).
+During the 2025–2026 academic year, I studied at MIT as a Fulbright Scholar, taking courses in applied mathematics and machine learning while conducting research at the [Julia Lab](https://julia.mit.edu). This year, I am spending most of my time in Boston continuing my research at the [Julia Lab](https://julia.mit.edu) under the supervision of Prof. Alan Edelman and [Dr. Chris Rackauckas](https://www.chrisrackauckas.com).
 
 ## Publications
 
@@ -39,7 +39,7 @@ Worked on computational modeling of traveling-wave dynamics in neural systems, w
 
 ---
 
-### Julia Lab, MIT CSAIL
+### [Julia Lab](https://julia.mit.edu), MIT CSAIL
 *Researcher · September 2025 – Present · Cambridge, MA*
 
 Worked on several scientific machine learning projects, including methods for overcoming stiffness barriers in Neural ODE training, SNAP-FM for physics-constrained flow matching, and HiFlight, a surrogate-modeling project for high-speed aerodynamic flows. My work has focused on combining machine learning with numerical methods and physical structure.
