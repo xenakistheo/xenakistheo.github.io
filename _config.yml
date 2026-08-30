@@ -14,12 +14,25 @@ author:
   name   : "Theodoros Xenakis"
   avatar : /assets/img/photoCV.jpg
   bio    : "Applied math, ML, and physics."
+  email  : "theodoros.xenakis@ntnu.no"
 
   links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/xenakistheo"
+    - label: "txenakis@mit.edu"
+      icon: "fas fa-envelope"
+      url: "mailto:txenakis@mit.edu"
+
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0009-0001-3648-2887"
+
+    - label: "Google Scholar"
+      icon: "fab fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=s7SYdE4AAAAJ&hl=en&oi=ao"
 
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/theodoros-xenakis-890268368"
+
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/xenakistheo"
