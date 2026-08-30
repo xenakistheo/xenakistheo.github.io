@@ -8,6 +8,29 @@ permalink: /projects/
 
 
 <div class="project-card">
+  <h2>Spin Glasses</h2>
+  <p>
+  <strong>Authors:</strong> Utkarsh, Theodoros Xenakis<br>
+</p>
+
+<p>
+  This project began in MIT's <em>15.070 – Discrete Probability and Stochastic Processes</em>, taught by Prof. David Gamarnik, and has since developed into an ongoing research collaboration. We study mean-field Ising spin glasses through the Parisi PDE, focusing on the relationship between the structure of the Parisi order parameter, the overlap gap property, and algorithmic barriers in high-dimensional random optimization.
+</p>
+
+<p>
+  We proved that for pure \(p>2\) spin models, the zero-temperature Parisi minimizer cannot be strictly increasing, establishing a PDE-level overlap gap. In subsequent work, we revisited our numerical experiments, identified a discretization artifact in our original interpretation of replica symmetry breaking, and developed refined numerical experiments. Our current work investigates whether the PDE-level gap can be connected to finite-dimensional OGP and provable algorithmic barriers.
+</p>
+
+  <p class="project-buttons">
+    <a class="btn btn--primary" href="/assets/spinglass/ParisiPDE_OGP_SpinGlass.pdf" target="_blank" rel="noopener">Original Report</a>
+    <a class="btn btn--primary" href="/assets/spinglass/memoSpinGlasses.pdf" target="_blank" rel="noopener">Algorithmic OGP Note</a>
+    <a class="btn btn--primary" href="/assets/spinglass/memoNumericsRevisited_spinglasses.pdf" target="_blank" rel="noopener">Numerics Revisited</a>
+    <a class="btn btn--info" href="https://github.com/xenakistheo/SpinGlasses" target="_blank" rel="noopener">GitHub</a>
+  </p>
+</div>
+
+
+<div class="project-card">
   <h2>Loss Landscape Exploration</h2>
   <p>
    <p>
